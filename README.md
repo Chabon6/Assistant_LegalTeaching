@@ -1,5 +1,5 @@
 # LegalTeachingAssistant
-一個法律教學助手，旨在幫助解析法律文件，提取相關條文，並使用 Advanced RAG 來根據法律文本生成解答和解釋。
+一個法律教學助理，旨在幫助解析法律文件，提取相關條文，並使用 Advanced RAG 來根據法律文本生成解答和解釋。
 
 This project is a Legal Teaching Assistant, designed to help in parsing legal documents, extracting relevant sections, then using advanced RAG to generate answers and explanations based on legal texts.
 
