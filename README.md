@@ -1,7 +1,7 @@
 # LegalTeachingAssistant
-一個法律教學助理，旨在幫助解析法律文件，提取相關條文，並使用 Advanced RAG 來根據法律文本生成解答和解釋。
+一個法律教學助理，用於解析法律文件並提取關鍵條文，結合 Advanced RAG，利用 OpenAI GPT 生成基於法律文本的準確解答與解釋。
 
-This project is a Legal Teaching Assistant, designed to help in parsing legal documents, extracting relevant sections, then using advanced RAG to generate answers and explanations based on legal texts.
+This project is designed to parse legal documents and extract key provisions, utilizing advanced RAG (Retrieval-Augmented Generation) combined with OpenAI GPT to generate accurate answers and explanations based on legal texts.
 
 ### Features
 * Law Name Extraction: Automatically extracts the law name from the provided legal text.
