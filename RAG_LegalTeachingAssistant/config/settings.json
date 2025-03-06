@@ -1,0 +1,11 @@
+{
+    "path_Law_rtf": "C:\\Users\\USER\\OneDrive\\檔案庫\\Python\\自練\\LangChain\\RAG_LegalTeachingAssistant\\data\\Law_rtf",
+    "path_Chroma_db": "C:\\Users\\USER\\OneDrive\\檔案庫\\Python\\自練\\LangChain\\RAG_LegalTeachingAssistant\\data\\Chroma_db",
+    "processed_files": [
+        "公司法.rtf",
+        "商業會計法.rtf",
+        "證券交易法.rtf",
+        "證券交易法施行細則.rtf",
+        "加值型及非加值型營業稅法.rtf"
+    ]
+}
